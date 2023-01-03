@@ -23,7 +23,7 @@ $ git clone https://github.com/FoxsBlintersOFC07/FOX-MAIL.git
 
 $ cd FOX-MAIL
 
-$ python fmail.py
+$ python temp.py
 
 ---USE E SEJA FELIZ---
 
