@@ -11,7 +11,7 @@ Ou Fazer login/cadrasto em um site ou app deixando o seu email verdadeiro longe 
 
 ---•INSTALAÇÃO•----
 
-´´´
+```
 pkg update && pkg upgrade
 
 pkg install python
@@ -25,7 +25,7 @@ git clone https://github.com/FoxsBlintersOFC07/FOX-MAIL.git
 cd FOX-MAIL
 
 python temp.py
-´´´
+```
 <h2 align="center">TUTORIAL DE INSTALAÇÃO: <a href='https://youtu.be/0AttzwQ8Sr0' target='_blank'>LINK DO TUTORIAL</a></h2>
 ---USE E SEJA FELIZ---
 
